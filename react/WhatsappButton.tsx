@@ -1,3 +1,5 @@
-import WhatsappButton from "./components/WhatsappButton";
+// * Encapsulamiento del componente para protegerlo
 
-export default WhatsappButton;
+import WhatsappButton from "./components/WhatsappButton"; // * Llamada al componente principal
+
+export default WhatsappButton; // ! Exportación obligatoria
